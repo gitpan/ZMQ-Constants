@@ -4,7 +4,7 @@
       "Daisuke Maki C<< <daisuke@endeworks.jp> >>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.04, CPAN::Meta::Converter version 2.120630",
+   "generated_by" : "Module::Install version 1.04, CPAN::Meta::Converter version 2.112150",
    "license" : [
       "perl_5"
    ],
@@ -16,7 +16,8 @@
    "no_index" : {
       "directory" : [
          "inc",
-         "t"
+         "t",
+         "xt"
       ]
    },
    "prereqs" : {
